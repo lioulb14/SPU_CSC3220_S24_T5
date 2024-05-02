@@ -13,6 +13,9 @@ Purpose: Help Single user use this app as a password book to remember their pass
 * Security Alerts: App has ability to alert user to possible security threats.
 * Password Group: Users have the option to group or categorize their security.
 * Automatic Login : If app is not used for while, it automatically lock.
+* Password Strength Analysis: Provide a feature that analyzes the strength of saved passwords and suggests improvements if they are weak.
+* Password Expiry Reminder: Allow users to set expiration dates for passwords and receive reminders to update them regularly for enhanced security.
+* Password History: Keep a history of previously used passwords for each account, allowing users to track changes and revert if necessary.
 *** 
 ### DataBase:
 * Password Table: Store saved password, websites, and usernames.
