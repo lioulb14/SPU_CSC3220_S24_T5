@@ -24,6 +24,7 @@ Purpose: Help Single user use this app as a password book to remember their pass
 ### Security:
 * Encryption: Passwords are stored in the database using strong encryption technique.
 * Biometric Authentication: App is able to use biometric authentication (using some part of your physical makeup to authenticate you) for login.
+* Two-Factor Authentication (2FA) Integration: Support integration with popular 2FA methods to add an extra layer of security to account logins.
 ***
 
 
