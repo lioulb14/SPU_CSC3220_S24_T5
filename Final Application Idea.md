@@ -1,19 +1,27 @@
 # Final Application idea
 ## Goal
 ### Personal Password Manager
-Help Single user use this app as a password book to remember their password and save their password in secured location.
+Purpose: Help Single user use this app as a password book to remember their password and save their password in secured location.
 ***
 ### Functions:
-* Saves a list of passwords and when the users need the password you will get access to those saved passwords.
-* Then have a assigned user account, so the passwords are saved just for that particular users.
+* Save Passwords: User able to save a new password and extra data (such as the website, username, and category.)
+* Retrieve Password: User able to retrieve a saved password y looking through or searching the saved password lists.
+* Delete Password: Saved password can be deleted.
+* Generate Password:using encryption, the app can create secure password.
+* Quick Copy: User can copy a password to the clipboard quickly.
+* One Click Login: Using stored password user can access websites with just one click.
+* Security Alerts: App has ability to alert user to possible security threats.
+* Password Group: Users have the option to group or categorize their security.
+* Automatic Login : If app is not used for while, it automatically lock.
 *** 
-### Additional features:
-* This app can also help with generating an encrypted password and save it for users automatically.
-* Quick Copy: Implement a feature that allows users to quickly copy passwords to the clipboard with a single tap.
-* One-Click Login: Enable users to log in to websites with a single click using saved passwords.
-* Advanced Security Alerts: Notify users of potential security risks such as weak passwords, reused passwords, or suspicious login attempts.
-* Password Groups: Organize passwords into groups or categories for easier management.
-* Automatic Lock: Automatically lock the app after a period of inactivity to protect sensitive information.
+### DataBase:
+* Password Table: Store saved password, websites, and usernames.
+* Setting Table: Store user preferences and settings.
 ***
+### Security:
+* Encryption: Passwords are stored in the database using strong encryption technique.
+* Biometric Authentication: App is able to use biometric authentication (using some part of your physical makeup to authenticate you) for login.
+***
+
 
 
