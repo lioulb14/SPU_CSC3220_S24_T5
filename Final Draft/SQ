@@ -1,3 +1,7 @@
 ### Delete Transaction
 delete from Password
 
+### Insert Transaction
+Insert into Password (website, username, savePass)
+Values ("Netflix.com", "jake21", "3244s2334")
+
