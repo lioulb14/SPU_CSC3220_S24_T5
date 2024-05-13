@@ -9,3 +9,16 @@ Values ("Netflix.com", "jake21", "3244s2334")
 Update Password
     set username='Natalie2007'
     where passwordId=1
+
+### Select Statement
+Insert into features (quick-copy)
+    values ("3244s2334");
+
+Insert into Password (website, username, SavePass)
+     values ("Walmart.com", "Natalie2007", "3244s2334");
+     
+
+select website, username
+    from Password
+    join features on Password.SavePass = features."quick-copy"
+    where Password.SavePass ="3244s2334";
